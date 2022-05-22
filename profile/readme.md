@@ -20,7 +20,7 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:": "We are a group of Devs and Designers making games for fun and learning cause we love to learn and game ;)",
-		"- 🔭 we're currently working on": "Make our first game and show the world our skills",
+		"- 🔭 we're currently working on": "Our first game and show the world our skills",
 		"- 🌱 We're currently using": "We use game engines like unity and unreal ( soon to use unreal , unity for now ) and languages like C# , C++ and JS ",
 		"- 👯 We're looking for -": "New Designers and Developers ready to join us ( P.S - age isnt a boundry its just a number ) anyone can join us",
 		"- 🤔 Origin country ?":"We belong to INDIA ",
